@@ -13,13 +13,13 @@
 - 4 sayısı 7'den ve 5'ten küçük olduğundan 5'in soluna, 1'den ve 3'ten büyük olduğundan 3'ün sağına,
 - 2 sayısı 7'den ve 5'ten küçük olduğundan 5'in soluna, 1'den büyük olduğundan 1'in sağına ve 3'ten küçük olduğundan 3'ün soluna yazılır.
 
-            7
-          /   \
-         5     8
-                \
-        / \       9
-       1   6
-      /  \
-     0    3
-         / \
-        2    4
+      |--           |--|--|-    |- |- |- |- |- |- |- |- |
+|             |  |  |     |  |  |  | 7|  |  |  |  |  
+|             |  |  |     |  |  | /|  |\ |  |  |  | 
+|             |  |  |     |  | 5|  |  |  |8 |  |  | 
+|             |  |  |     | /|  |\ |  |  |  |\ |  | 
+|             |  |  | 1   |  |  |  |6 |  |  |  | 9|
+|             |  | /|     |\ |  |  |  |  |  |  |  |
+|             | 0|  |     |  | 3|  |  |  |  |  |  |
+|             |  |  |     | /|  |\ |  |  |  |  |  |
+||  |  |2|  |  |  |4 |  |  |  |  |
