@@ -9,6 +9,7 @@
 - [2, 6, 16, 18, 22, 27] 
 
 2-)Big O:  O(n^2)
+
 3-) Time Complexity: 
 - Best Case: Sıralı Dizi
 - Worst Case: Ters Sıralı Dizi 
