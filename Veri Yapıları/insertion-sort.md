@@ -13,6 +13,7 @@
 - Best Case: Sıralı Dizi
 - Worst Case: Ters Sıralı Dizi 
 - Average Case: Normal Dağılım
+
 4-) Average Case
 
 
