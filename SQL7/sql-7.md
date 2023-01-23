@@ -1,4 +1,4 @@
-# SQL ÖDEV 3
+# SQL ÖDEV 7
 
 1. film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
 

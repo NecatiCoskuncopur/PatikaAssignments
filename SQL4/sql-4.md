@@ -1,4 +1,4 @@
-# SQL ÖDEV 3
+# SQL ÖDEV 4
 
 1. film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
 

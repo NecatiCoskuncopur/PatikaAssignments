@@ -1,4 +1,4 @@
-# SQL ÖDEV 3
+# SQL ÖDEV 6
 
 1. film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
 
