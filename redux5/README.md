@@ -1,6 +1,6 @@
 # React Markdown Previewer
 
-[Live](https://patika-redux-markdown-generator.vercel.app/)
+[Live Demo](https://patika-redux-markdown-generator.vercel.app/)
 
 
 
