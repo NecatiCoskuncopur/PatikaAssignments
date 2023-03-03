@@ -1,6 +1,6 @@
 # React Text Generator
 
-[Live](https://patika-redux-text-generator.vercel.app/)
+[Live Demo](https://patika-redux-text-generator.vercel.app/)
 
 
 
