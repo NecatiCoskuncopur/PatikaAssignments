@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-[Live](https://patika-redux-spend-billgates-money.vercel.app/)
+[Live Demo](https://patika-redux-spend-billgates-money.vercel.app/)
 
 ## Available Scripts
 
