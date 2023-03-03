@@ -1,6 +1,6 @@
 # React COVID-19 Tracker
 
-[Live](https://patika-redux-covid-19-tracker.vercel.app/)
+[Live Demo](https://patika-redux-covid-19-tracker.vercel.app/)
 
 
 
